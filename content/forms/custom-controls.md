@@ -1,5 +1,5 @@
 ---
-title: Custom Controls
+title: Custom Controlsz
 permalink: /tutorials/forms/custom-controls/
 ref: /tutorials/forms/custom-controls/
 lang: en
